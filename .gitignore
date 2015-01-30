@@ -1,5 +1,6 @@
 *.class
 target/classes
+db.properties
 
 # Windows image file caches
 Thumbs.db
